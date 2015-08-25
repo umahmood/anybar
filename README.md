@@ -9,6 +9,8 @@ Anybar is a command line tool and Go library, which provides the ability to send
 # Installation
 
 > go get github.com/umahmood/anybar
+> cd $GOPATH/src/github.com/umahmood/anybar
+> go install ./...
 
 # Usage
 
